@@ -1,0 +1,19 @@
+.login-wrap{
+    height: 100%;
+    background-color: #324152;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form{
+    width: 400px;
+    border-radius: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+
+.login-but{
+    width: 100%;
+}
